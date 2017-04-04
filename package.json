@@ -1,0 +1,14 @@
+{
+  "name": "electron-test",
+  "version": "1.0.0",
+  "description": "Simple app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "issam",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^1.6.2"
+  }
+}
